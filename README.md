@@ -1,22 +1,18 @@
 About Me
 ======
 
-I am a passionate researcher in **computer vision**, and **sensing**. 
-I am currently pursuing my Ph.D. in National University of Singapore (NUS). 
-My supervisors are [Prof. Jun Han](https://www.junhan.org/home) in Yonsei University and 
-[Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/) in National University of Singapore. 
-My research interests are in the intersection of computer vision and sensing systems.
+I am a graduating Ph.D. student at the National University of Singapore (NUS), advised by [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/) (NUS) and [Prof. Jun Han](https://www.junhan.org/home) (KAIST). My research sits at the intersection of ubiquitous computing, mobile sensing and computer security, with a central focus on building deployable **provenance** systems for physical and digital artifacts using **commodity devices**. 
+
+I develop mobile systems that recover and verify evidence of origin, authenticity, ownership, and transformation history for **physical products used in everyday life** and **digital content that underpins online trust**. Looking ahead, I aim to extend provenance from artifact verification to **accountable human-AI workflows**, so that provenance can support not only authenticity and attribution, but also auditable collaboration between humans and AI.
+
+Beyond research, I enjoy traveling and photography, and I am a photography enthusiast.
 
 Research Interests
 ======
-- **Computer Vision**
-- **Sensing and Mobile Systems**
-- **Cyber-Physical Systems (CPS) and CPS Security**
+- **Mobile and Sensing Systems** (_Primary_)
+- **Security and Privacy** (_Secondary_)
 
-My research interests are in the intersection of **computer vision** and **sensing systems** to aid Cyber-Physical Systems (CPS) and security, 
-as well as empower average users with the ***enhanced reality*** (i.e., capability of extracting hidden information in daily objects and activities 
-to make decisions, using only commercial off-the-shelf devices). Specifically, my research focuses on augmenting computer vision techniques with physics 
-models and other sensing modalities to extract physical properties of daily objects and activities.
+A central premise of my research is that **_no single provenance signal is sufficient on its own_**. Beyond cryptographic records and other forms of extrinsic provenance, I study how visible physical signals, sensor fingerprints, and computational forensics provide complementary **intrinsic provenance** for building trustworthy systems that remain robust under adversarial manipulation. I also aim to make provenance recovery and verification **practical on commodity everyday devices** rather than confined to specialized laboratories or proprietary platforms. Ultimately, I seek to advance **hybrid provenance** systems that integrate these signals not only to verify the origin, authenticity, and transformation history of physical and digital artifacts, but also to enable **accountable human-AI workflows** in which transformations, interventions, and responsibility can be meaningfully audited.
 
 For more information, please refer to my personal website [here](https://sunbangjie.github.io).
 
