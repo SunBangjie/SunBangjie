@@ -1,7 +1,7 @@
 About Me
 ======
 
-I am a graduating Ph.D. student at the National University of Singapore (NUS), advised by [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/) (NUS) and [Prof. Jun Han](https://www.junhan.org/home) (KAIST). My research sits at the intersection of ubiquitous computing, mobile sensing and computer security, with a central focus on building deployable **provenance** systems for physical and digital artifacts using **commodity devices**. 
+I am a graduating Ph.D. student at the National University of Singapore (NUS), advised by [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/) (NUS) and [Prof. Jun Han](https://www.junhan.org/home) (KAIST). My research sits at the intersection of mobile sensing and computer security, with a central focus on building deployable **provenance** systems for physical and digital artifacts using **commodity devices**. 
 
 I develop mobile systems that recover and verify evidence of origin, authenticity, ownership, and transformation history for **physical products used in everyday life** and **digital content that underpins online trust**. Looking ahead, I aim to extend provenance from artifact verification to **accountable human-AI workflows**, so that provenance can support not only authenticity and attribution, but also auditable collaboration between humans and AI.
 
