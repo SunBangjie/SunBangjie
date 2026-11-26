@@ -1,11 +1,9 @@
 About Me
 ======
 
-I am a graduating Ph.D. student at the National University of Singapore (NUS), advised by [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/) (NUS) and [Prof. Jun Han](https://www.junhan.org/home) (KAIST). My research sits at the intersection of **mobile sensing** and **applied artificial intelligence**, with a focus on safety- and trust-critical real-world problems. At its core, I build **ubiquitous** and **physically grounded provenance systems** — deployable on commodity devices — to verify the origin, authenticity, ownership, and transformation history of physical products and digital content.
+I am an incoming Assistant Professor in the ISTD pillar at the Singapore University of Technology and Design (SUTD). I am currently a Research Fellow at the National University of Singapore (NUS), where I received my Ph.D. in Computer Science, advised by [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/) (NUS) and [Prof. Jun Han](https://www.junhan.org/home) (KAIST). Working at the intersection of mobile sensing, AI, and security, I turn the devices already in people's hands into physically grounded intelligent systems for product authenticity, content provenance, and media authentication. Looking ahead, I aim to advance trustworthy physical AI and human-AI collaboration.
 
-Looking ahead, I aim to extend provenance in two directions: toward **accountable human-AI workflows**, where provenance supports auditable collaboration between humans and AI; and toward **trustworthy physical AI systems**, where provenance grounds the actions and decisions of AI agents operating in the physical world.
-
-Beyond research, I enjoy traveling and photography, and I am a photography enthusiast.
+Beyond research, I enjoy traveling and photography, and I am a photography enthusiast; some of my photography artworks are collected in my personal website [here](https://sunbangjie.github.io).
 
 Research Interests
 ======
